@@ -1,0 +1,44 @@
+[
+  {
+    "name": "apple",
+    "description": "apple is nice fruir",
+    "rate": 1200,
+    "qty": "100kg 🍎",
+    "place":"thrissur"
+  },
+  {
+    "name": "Orange",
+    "description": "orange is nice fruir",
+    "rate": 1200,
+    "qty": "100kg 🍊",
+    "place":"thrissur"
+  },
+  {
+    "name": "Banana",
+    "description": "Banana is nice fruir",
+    "rate": 1200,
+    "qty": "100kg 🍌",
+    "place":"thrissur"
+  },
+  {
+    "name": "strawberry",
+    "description": "strawberry is nice fruir",
+    "rate": 1200,
+    "qty": "100kg 🍓",
+    "place":"thrissur"
+  },
+  {
+    "name": "grapes",
+    "description": "grapes is nice fruir",
+    "rate": 1200,
+    "qty": "100kg 🍇",
+    "place":"thrissur"
+  },
+  {
+    "name": "Lemon",
+    "description": "Lemon is nice fruir",
+    "rate": 1200,
+    "qty": "100kg 🍋",
+    "place":"thrissur"
+  }
+]
